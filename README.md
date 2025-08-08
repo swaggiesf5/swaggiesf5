@@ -18,16 +18,21 @@ I love working with **TypeScript, React, Node.js**, and cloud technologies.
 
 ## 🧰 Tech Stack
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js"/>
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express"/>
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma"/>
-  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&logo=ant-design"/>
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/><br/>Prisma</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="40"/><br/>Ant Design</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/><br/>Vite</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>Docker</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub Actions</td>
+  </tr>
+</table>
+
 
 ---
 
