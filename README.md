@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Srirachat Janwattanapong]!
 
 Welcome to my GitHub profile!  
 I'm a passionate developer focused on building **scalable web applications, modern APIs,** and **robust backend systems**.  
@@ -8,9 +8,9 @@ I love working with **TypeScript, React, Node.js**, and cloud technologies.
 
 ## 🧑‍💻 About Me
 
-- 💻 **Full-stack developer** (TypeScript, React, Node.js, Express)
-- 🏢 **Currently working at:** [ ? ]
-- 🌱 **Always learning:** new tech and best practices
+- 💻 **Full-stack developer** (TypeScript, Javascript, React, Node.js, Express)
+- 🏢 **Currently working at:** [ ??? ]
+- 🌱 **Always learning:** new tech and best practices and getting into **DevOps**
 - 🛠️ **Interests:** scalable architectures, automation, and open source
 - 📫 **Reach me:** [srirachat01@gmail.com](mailto:srirachat01@gmail.com)
 
