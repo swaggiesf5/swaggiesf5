@@ -4,7 +4,7 @@ I'm a passionate developer focused on building scalable web applications, modern
 
 - About Me
 💻 Full-stack developer (TypeScript, React, Node.js, Express)
-🏢 Currently working at [Your Company/Organization]
+🏢 Currently working at [ ? ]
 🌱 Always learning new tech and best practices
 🛠️ Interested in scalable architectures, automation, and open source
 📫 How to reach me: [srirachat01@gmail.com]
