@@ -19,10 +19,6 @@ I'm a passionate developer focused on building scalable web applications, modern
 <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&amp;logo=ant-design">
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&amp;logo=vite">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&amp;logo=postgresql">
-
-📈 GitHub Stats
-<img alt="YourName's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&amp;show_icons=true&amp;theme=radical">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&amp;layout=compact&amp;theme=radical">
 <!---
 swaggiesf5/swaggiesf5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
