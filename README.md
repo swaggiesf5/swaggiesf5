@@ -10,7 +10,7 @@ I'm a passionate developer focused on building scalable web applications, modern
 📫 How to reach me: [srirachat01@gmail.com]
 
 
-- 🧰 Tech Stack
+🧰 Tech Stack
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&amp;logo=typescript">
 <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&amp;logo=react">
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&amp;logo=node.js">
