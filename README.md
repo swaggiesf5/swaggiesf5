@@ -1,27 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Srirachat Janwattanapong
+# Hi, I'm Srirachat Janwattanapong
 
 ### Full-Stack Developer · API Craftsman · Backend Enthusiast
 
-Building **scalable web applications**, **modern APIs**, and **robust backend systems**.
-Passionate about **TypeScript**, **React**, **Node.js**, and cloud technologies.
+Building **scalable web applications**, **modern APIs**, and **robust backend systems** —
+and just as curious about **hardware**, **networking**, and how things work under the hood.
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 💻 **Full-stack developer** — TypeScript, JavaScript, React, Node.js, Express
-- 🏢 **Currently working at** — [Deeprun](https://github.com/deeprun-academy)
-- 🌱 **Always learning** — new tech, best practices, and diving into **DevOps**
-- ⚡ **Interests** — scalable architectures, automation, and open source
-- 📫 **Reach me** — [srirachat01@gmail.com](mailto:srirachat01@gmail.com)
+- **Full-stack developer** — TypeScript, JavaScript, React, Node.js, Express
+- **Currently working at** — [Deeprun](https://github.com/deeprun-academy)
+- **Always learning** — new tech, best practices, and diving into **DevOps**
+- **Interests** — scalable architectures, automation, and open source
+- **Beyond software** — hardware, electronics, and computer networking
+- **Reach me** — [srirachat01@gmail.com](mailto:srirachat01@gmail.com)
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -67,7 +68,37 @@ Passionate about **TypeScript**, **React**, **Node.js**, and cloud technologies.
 
 ---
 
-## 📫 Connect
+## Hardware &amp; Networking
+
+<table>
+  <tr>
+    <td align="right"><b>Systems</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" title="Linux" alt="Linux"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38" title="Bash / Shell" alt="Bash"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Electronics</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="38" title="Raspberry Pi" alt="Raspberry Pi"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="38" title="Arduino" alt="Arduino"/>&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Networking</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square" alt="TCP/IP"/>&nbsp;
+      <img src="https://img.shields.io/badge/DNS-4B275F?style=flat-square" alt="DNS"/>&nbsp;
+      <img src="https://img.shields.io/badge/VPN-2C3E50?style=flat-square" alt="VPN"/>&nbsp;
+      <img src="https://img.shields.io/badge/Home%20Lab-1E824C?style=flat-square&logo=proxmox&logoColor=white" alt="Home Lab"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Connect
 
 <div align="center">
 
