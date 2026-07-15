@@ -14,7 +14,7 @@ and just as curious about **hardware**, **networking**, and how things work unde
 ## About Me
 
 - **Full-stack developer** — TypeScript, JavaScript, React, Node.js, Express
-- **Currently working at** — [Deeprun](https://github.com/deeprun-academy)
+- **Currently working at** — [Deeprun](https://www.deeprun.com/)
 - **Always learning** — new tech, best practices, and diving into **DevOps**
 - **Interests** — scalable architectures, automation, and open source
 - **Beyond software** — hardware, electronics, and computer networking
